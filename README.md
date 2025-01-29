@@ -74,12 +74,3 @@ docker run -v $(pwd):/app/torrents -v $(pwd)/downloads:/app/downloads yashsaini9
 docker build -t bittorrent .
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-```
